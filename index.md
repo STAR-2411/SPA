@@ -18,5 +18,11 @@
 ### 研究方法
 
 ### 研究结果
-![拟合指数](picture/fit.png)
 ![拟合指数](picture/cat.png)
+
+
+
+
+### 数据可视化
+![拟合指数](picture/vis1.png)
+![拟合指数](picture/vis2.png)
