@@ -8,4 +8,4 @@
 ### 研究方法
 
 ### 研究结果
-![](picture/fit.png)
+![拟合指数](picture/fit.png)
