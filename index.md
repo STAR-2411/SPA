@@ -17,3 +17,4 @@
 
 ### 研究结果
 ![拟合指数](picture/fit.png)
+![拟合指数](picture/cat.png)
