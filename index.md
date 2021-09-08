@@ -15,6 +15,7 @@
 
 
 
-### 数据可视化
+## 其它
 ![拟合指数](picture/vis1.png)
 ![拟合指数](picture/vis2.png)
+![拟合指数](picture/lh.png)
