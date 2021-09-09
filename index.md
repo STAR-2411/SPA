@@ -2,7 +2,7 @@
 
 ### 研究背景
 ![](picture/german.png)
-![](picture/que.jpg)
+![](picture/que.png)
 
 ### 研究目的
 挖掘数据
